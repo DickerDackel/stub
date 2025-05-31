@@ -1,6 +1,6 @@
 [project]
-name = "FIXME"
-description = "FIXME"
+name = "stub"
+description = "stub"
 version = "0.0.1"
 readme = "README.md"
 
@@ -23,11 +23,11 @@ dependencies = [
 ]
 
 [project.scripts]
-FIXME = "package.module:main"
+stub = "stub.main:main"
 
 [project.urls]
-homepage = "https://github.com/dickerdackel/FIXME"
-bugtracker = "https://github.com/DickerDackel/FIXME/issues"
+homepage = "https://github.com/dickerdackel/stub"
+bugtracker = "https://github.com/DickerDackel/stub/issues"
 
 [build-system]
 requires = ["setuptools"]
