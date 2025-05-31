@@ -16,11 +16,7 @@ classifiers = [
     "Topic :: Software Development :: Libraries :: pygame",
 ]
 
-dependencies = [
-    "pygame-ce",
-    "pgcooldown",
-    "ddframework @ git+https://github.com/dickerdackel/ddframework",
-]
+dependencies = [ ]
 
 [project.scripts]
 stub = "stub.main:main"
